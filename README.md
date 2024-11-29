@@ -25,6 +25,5 @@ Kauã Kairon: Desenvolvimento e implementação do código e Design e estrutura�
 ## Como Rodar o Projeto
 
 1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seuusuario/loja-virtual-flamengo.git
+https://ealvesz.github.io/loja-atualizada-fla/
 
